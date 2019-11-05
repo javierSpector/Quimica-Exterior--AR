@@ -13,14 +13,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAt Texts.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LookAtText.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LookAtText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LookAt Texts.cs" />
+        <option value="$PROJECT_DIR$/Assets/LookAtText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572979552579</updated>
-      <workItem from="1572979573104" duration="1186000" />
+      <workItem from="1572979573104" duration="1667000" />
     </task>
     <servers />
   </component>

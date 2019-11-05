@@ -7,14 +7,16 @@ public class ClickEstrtuctura : MonoBehaviour
 {
 
    public GameObject mostrar;
-
+   private bool status;
    private void Start()
    {
-      mostrar.SetActive(false);
+      status = false;
+      mostrar.SetActive(status);
    }
 
    void OnMouseDown()
    {
-      mostrar.SetActive(true);
+      status = !status;
+      mostrar.SetActive(status);
    }
 }
