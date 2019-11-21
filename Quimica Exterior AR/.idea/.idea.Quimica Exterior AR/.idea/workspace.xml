@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/clickRV.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAt Texts.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/tansitionAnimation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/buttonTransition.cs" root0="FORCE_HIGHLIGHTING" />
@@ -26,6 +27,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" />
         <option value="$PROJECT_DIR$/Assets/tansitionAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/buttonTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/clickRV.cs" />
       </list>
     </option>
   </component>
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572979552579</updated>
       <workItem from="1572979573104" duration="1667000" />
-      <workItem from="1574339945335" duration="4107000" />
+      <workItem from="1574339945335" duration="5260000" />
     </task>
     <servers />
   </component>
@@ -100,6 +102,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1475" y="-299" key="run.anything.popup" />
+    <state x="1475" y="-299" key="run.anything.popup/1920.1080/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
