@@ -4,10 +4,9 @@
     <list default="true" id="054a6429-2190-4c0b-9fbc-c9bb92b70ccb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Animations/Position Animation Pivot.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Position Animation Pivot.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Exterior Quimica.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Exterior Quimica.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QCAR/somedata16" beforeDir="false" afterPath="$PROJECT_DIR$/QCAR/somedata16" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,19 +74,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+            <state relative-caret-position="276">
+              <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
               <folding>
-                <marker date="1575316419106" expanded="false" signature="6:100" ph="..." />
-                <marker date="1575316419106" expanded="true" signature="147:2922" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="288:475" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="538:1757" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="586:631" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="656:1751" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="667:856" ph="/* case 0: ... */" />
-                <marker date="1575316419106" expanded="true" signature="1787:2920" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="1832:1877" ph="{...}" />
-                <marker date="1575316419106" expanded="true" signature="1902:2914" ph="{...}" />
+                <marker date="1575318900090" expanded="false" signature="6:100" ph="..." />
+                <marker date="1575318900090" expanded="true" signature="147:3553" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="288:475" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="538:2135" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="586:631" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="656:2129" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="667:856" ph="/* case 0: ... */" />
+                <marker date="1575318900090" expanded="true" signature="2165:3551" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="2210:2255" ph="{...}" />
+                <marker date="1575318900090" expanded="true" signature="2280:3545" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -216,12 +215,12 @@
       <workItem from="1572979573104" duration="1667000" />
       <workItem from="1574339945335" duration="5263000" />
       <workItem from="1575035292856" duration="6377000" />
-      <workItem from="1575311225248" duration="3821000" />
+      <workItem from="1575311225248" duration="5875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10198000" />
+    <option name="totallyTimeSpent" value="12252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,19 +386,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        <state relative-caret-position="276">
+          <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
           <folding>
-            <marker date="1575316419106" expanded="false" signature="6:100" ph="..." />
-            <marker date="1575316419106" expanded="true" signature="147:2922" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="288:475" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="538:1757" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="586:631" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="656:1751" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="667:856" ph="/* case 0: ... */" />
-            <marker date="1575316419106" expanded="true" signature="1787:2920" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="1832:1877" ph="{...}" />
-            <marker date="1575316419106" expanded="true" signature="1902:2914" ph="{...}" />
+            <marker date="1575318900090" expanded="false" signature="6:100" ph="..." />
+            <marker date="1575318900090" expanded="true" signature="147:3553" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="288:475" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="538:2135" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="586:631" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="656:2129" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="667:856" ph="/* case 0: ... */" />
+            <marker date="1575318900090" expanded="true" signature="2165:3551" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="2210:2255" ph="{...}" />
+            <marker date="1575318900090" expanded="true" signature="2280:3545" ph="{...}" />
           </folding>
         </state>
       </provider>
