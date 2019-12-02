@@ -24,32 +24,37 @@ public class buttonTransition : MonoBehaviour
         counter++;
         if (counter>6)
         {
-            counter = 1;
+            counter = 2;
         }
         switch (counter)
-        { case 1:
+        { /*case 0:
                 anim.SetInteger("animationTransition", counter);
+//                anim.Play("animationTransition");
                 txt.text = "Quimica";
-                break;
-            case 2:
+                break;*/
+            case 1:
                 anim.SetInteger("animationTransition", counter);
                 txt.text = "Transferencia";
                 break;
-            case 3:
+            case 2:
                 anim.SetInteger("animationTransition", counter);
                 txt.text = "Grado";
                 break;
-            case 4:
+            case 3:
                 anim.SetInteger("animationTransition", counter);
                 txt.text = "Reloj";
                 break;
-            case 5:
+            case 4:
                 anim.SetInteger("animationTransition", counter);
                 txt.text = "Hospital";
                 break;
-            case 6:
+            case 5:
                 anim.SetInteger("animationTransition", counter);
                 txt.text = "Quimica";
+                break;
+            case 6:
+                anim.SetInteger("animationTransition", counter);
+                txt.text = "Transferencia";
                 break;
         }
     }
@@ -58,31 +63,35 @@ public class buttonTransition : MonoBehaviour
         counter--;
         if (counter < 1)
         {
-            counter = 6;
+            counter = 4;
         }
         switch (counter)
-        { case 1:
+        { case 0:
                 anim.SetInteger("animationReverse", counter);
                 txt.text = "Quimica";
                 break;
-            case 2:
+            case 1:
                 anim.SetInteger("animationReverse", counter);
                 txt.text = "Transferencia";
                 break;
-            case 3:
+            case 2:
                 anim.SetInteger("animationReverse", counter);
                 txt.text = "Grado";
                 break;
-            case 4:
+            case 3:
                 anim.SetInteger("animationReverse", counter);
                 txt.text = "Reloj";
                 break;
-            case 5:
+            case 4:
                 anim.SetInteger("animationReverse", counter);
                 txt.text = "Hospital";
                 break;
+            case 5:
+                anim.SetInteger("animationReverse", counter);
+                txt.text = "Quimica";
+                break;
             case 6:
-                anim.SetInteger("animationTransition", counter);
+                anim.SetInteger("animationReverse", counter);
                 txt.text = "Quimica";
                 break;
         }
