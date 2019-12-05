@@ -79,8 +79,10 @@ public class buttonTransition : MonoBehaviour
         }
         switch (counter)
         { case 1:
+                
                 anim.SetInteger("animationReverse", counter);
                 anim.SetInteger("animationTransition", counter);
+                
 
                 txt.text = "Transferencia";
                 break;
