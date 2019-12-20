@@ -12,6 +12,7 @@
           <e p="ClickEstrtuctura.cs" t="Include" />
           <e p="clickRV.cs" t="Include" />
           <e p="EventsController.cs" t="Include" />
+          <e p="InformationDisplayer.cs" t="Include" />
           <e p="LookAt Texts.cs" t="Include" />
           <e p="LookAtText.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
