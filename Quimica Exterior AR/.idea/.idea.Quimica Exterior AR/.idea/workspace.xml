@@ -4,7 +4,7 @@
     <list default="true" id="054a6429-2190-4c0b-9fbc-c9bb92b70ccb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Quimica Exterior AR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/TestImage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Addons.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Addons.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Exterior Quimica.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Exterior Quimica.unity" afterDir="false" />
     </list>
@@ -14,56 +14,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="20" selection-end-column="4" />
-              <folding>
-                <marker date="1575030089892" expanded="false" signature="6:92" ph="..." />
-                <marker date="1575030089892" expanded="true" signature="139:377" ph="{...}" />
-                <marker date="1575030089892" expanded="true" signature="220:285" ph="{...}" />
-                <marker date="1575030089892" expanded="true" signature="308:375" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/InformationDisplayer.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-              <folding>
-                <marker date="1576864802471" expanded="true" signature="6:78" ph="..." />
-                <marker date="1576864802471" expanded="true" signature="197:825" ph="{...}" />
-                <marker date="1576864802471" expanded="true" signature="339:506" ph="{...}" />
-                <marker date="1576864802471" expanded="true" signature="530:681" ph="{...}" />
-                <marker date="1576864802471" expanded="true" signature="714:823" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B711263B-E681-49A9-934E-586BE1EF07C3/46/d6c7cc90/Animator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAt Texts.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Swipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Transition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GenerateTooltips.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Addons.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Swipe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Exterior Quimica.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../VR Networking/Assets/Scripts/NetworkedPlayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InformationDisplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,6 +48,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Transition.cs" />
         <option value="$PROJECT_DIR$/../../VR Networking/Assets/Scripts/NetworkedPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InformationDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/GenerateTooltips.cs" />
       </list>
     </option>
   </component>
@@ -91,28 +57,8 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="15" />
-    <option name="width" value="974" />
-    <option name="height" value="1043" />
-  </component>
   <component name="ProjectId" id="1TD0pyXUnpMDEvC0hQBCcBVHTuo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -136,12 +82,14 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -160,56 +108,9 @@
       <workItem from="1575035292856" duration="6377000" />
       <workItem from="1575311225248" duration="6201000" />
       <workItem from="1575564975188" duration="6252000" />
+      <workItem from="1577040801774" duration="1924000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21948000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Captures" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Performance Profiler" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" order="13" />
-      <window_info anchor="bottom" id="Unit Tests" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Unity" order="16" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
-      <window_info anchor="right" id="Errors In Solution" order="6" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -222,12 +123,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -265,144 +160,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/buttonTransition.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/SwipeTransition.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwipeTest.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwipeTransition.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Swipe.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-          <folding>
-            <marker date="1575048229265" expanded="false" signature="6:78" ph="..." />
-            <marker date="1575048229265" expanded="true" signature="115:3003" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="359:2227" ph="{...}" />
-            <marker date="1575048229265" expanded="false" signature="438:743" ph="Keyboard Inputs" />
-            <marker date="1575048229265" expanded="true" signature="504:615" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="660:723" ph="{...}" />
-            <marker date="1575048229265" expanded="false" signature="753:1229" ph="Mobile Inputs" />
-            <marker date="1575048229265" expanded="true" signature="814:1209" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="876:1009" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1124:1199" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1290:1547" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1449:1537" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1600:2221" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1720:2022" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1749:1866" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="1867:2008" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2022:2177" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2254:2336" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2368:2423" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2450:2517" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2546:2615" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2641:2704" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2732:2799" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2831:2900" ph="{...}" />
-            <marker date="1575048229265" expanded="true" signature="2932:3001" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventsController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <marker date="1575047844721" expanded="true" signature="81:484" ph="{...}" />
-            <marker date="1575047844721" expanded="true" signature="154:185" ph="{...}" />
-            <marker date="1575047844721" expanded="true" signature="291:370" ph="{...}" />
-            <marker date="1575047844721" expanded="true" signature="326:364" ph="{...}" />
-            <marker date="1575047844721" expanded="true" signature="401:482" ph="{...}" />
-            <marker date="1575047844721" expanded="true" signature="437:476" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B711263B-E681-49A9-934E-586BE1EF07C3/46/d6c7cc90/Animator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="1038" column="23" selection-start-line="1038" selection-start-column="23" selection-end-line="1038" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/buttonTransition.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1174">
-          <caret selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <marker date="1575568862497" expanded="true" signature="6:100" ph="..." />
-            <marker date="1575568862497" expanded="true" signature="147:3587" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="288:475" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="538:2135" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="586:631" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="656:2129" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="667:856" ph="/* case 0: ... */" />
-            <marker date="1575568862497" expanded="true" signature="2165:3585" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="2210:2255" ph="{...}" />
-            <marker date="1575568862497" expanded="true" signature="2280:3579" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Transition.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
-          <folding>
-            <marker date="1575571283009" expanded="true" signature="6:100" ph="..." />
-            <marker date="1575571283009" expanded="true" signature="141:2521" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="281:468" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="532:1477" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="578:614" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="641:1471" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="1507:2519" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="1553:1589" ph="{...}" />
-            <marker date="1575571283009" expanded="true" signature="1615:2513" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../VR Networking/Assets/Scripts/NetworkedPlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/InformationDisplayer.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClickEstrtuctura.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <marker date="1575030089892" expanded="false" signature="6:92" ph="..." />
-            <marker date="1575030089892" expanded="true" signature="139:377" ph="{...}" />
-            <marker date="1575030089892" expanded="true" signature="220:285" ph="{...}" />
-            <marker date="1575030089892" expanded="true" signature="308:375" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InformationDisplayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <marker date="1576864802471" expanded="true" signature="6:78" ph="..." />
-            <marker date="1576864802471" expanded="true" signature="197:825" ph="{...}" />
-            <marker date="1576864802471" expanded="true" signature="339:506" ph="{...}" />
-            <marker date="1576864802471" expanded="true" signature="530:681" ph="{...}" />
-            <marker date="1576864802471" expanded="true" signature="714:823" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
