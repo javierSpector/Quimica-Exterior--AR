@@ -2,58 +2,68 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Video;
 
 public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     
     //public string information;
     
-    public GameObject canvasTransf;
-    public GameObject canvasPhotoGaleryTransf;
+    public GameObject transfPanel;
+    public GameObject photoGaleryTransf;
     public GameObject closeButton;
     public GameObject goBackButton;
+    public VideoPlayer videoPlayer;
+    public GameObject information;
     
 
     private void Start() {
-        canvasTransf.SetActive(false);
-        canvasPhotoGaleryTransf.SetActive(false);
+        gameObject.SetActive(false);
+        transfPanel.SetActive(true);
+        photoGaleryTransf.SetActive(false);
         goBackButton.SetActive(false);
         closeButton.SetActive(false);
+        videoPlayer.enabled = false;
+        information.SetActive(false);
     }
 
     public void ShowOptions() {
-        canvasTransf.SetActive(true);
-        canvasPhotoGaleryTransf.SetActive(false);
-        goBackButton.SetActive(false);
+        Close();
+        transfPanel.SetActive(true);
         closeButton.SetActive(true);
 
     }
 
     public void ShowInformation() {
+        Close();
+        information.SetActive(true);
         goBackButton.SetActive(true);
-        closeButton.SetActive(false);
+       
 
     }
 
     public void ShowPhotoGalery() {
-        canvasTransf.SetActive(false);
-        canvasPhotoGaleryTransf.SetActive(true);
+        Close();
+        photoGaleryTransf.SetActive(true);
         goBackButton.SetActive(true);
-        closeButton.SetActive(false);
 
 
     }
 
     public void ShowVideo() {
+        Close();
         goBackButton.SetActive(true);
-        closeButton.SetActive(false);
-
-
+      
+        videoPlayer.enabled = true;
+        videoPlayer.Play();
     }
 
     public void Close() {
-        canvasTransf.SetActive(false);
-        canvasPhotoGaleryTransf.SetActive(false);
+        transfPanel.SetActive(false);
+        photoGaleryTransf.SetActive(false);
         goBackButton.SetActive(false);
-
+        closeButton.SetActive(false);
+        videoPlayer.Stop();
+        videoPlayer.enabled = false;
+        information.SetActive(false);
     }
 }

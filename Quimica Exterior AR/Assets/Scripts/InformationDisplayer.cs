@@ -16,7 +16,7 @@ public class InformationDisplayer : MonoBehaviour
         status = false;
         canvas.SetActive(status);
 
-        closeImage.onClick.AddListener(closeCanvas);
+//        closeImage.onClick.AddListener(closeCanvas);
         swipe = FindObjectOfType<Swipe>();
     }
 
