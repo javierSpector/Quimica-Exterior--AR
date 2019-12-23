@@ -9,8 +9,9 @@ public class GenerateTooltips : MonoBehaviour
     [FormerlySerializedAs("startPos")] public Transform startPlane;
 
     private LineRenderer _lineRenderer;
+    public Material sphereMaterial;
 
-    private float width = 0.25f;
+    private float width = 0.1f;
     
     
     // Start is called before the first frame update
@@ -18,12 +19,10 @@ public class GenerateTooltips : MonoBehaviour
     {
         _lineRenderer = GetComponent<LineRenderer>();
         _lineRenderer.startWidth = _lineRenderer.endWidth = width;
-        _lineRenderer.material = startPlane.gameObject.GetComponent<Renderer>().material;
+       
+
+        //_lineRenderer.material = startPlane.gameObject.GetComponent<Renderer>().material;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
 }
