@@ -17,24 +17,24 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     
 
     private void Start() {
-        gameObject.SetActive(false);
+
         transfPanel.SetActive(true);
         photoGaleryTransf.SetActive(false);
         goBackButton.SetActive(false);
-        closeButton.SetActive(false);
+        closeButton.SetActive(true);
         videoPlayer.enabled = false;
         information.SetActive(false);
     }
 
     public void ShowOptions() {
-        Close();
+        closeCommon();
         transfPanel.SetActive(true);
         closeButton.SetActive(true);
 
     }
 
     public void ShowInformation() {
-        Close();
+        closeCommon();
         information.SetActive(true);
         goBackButton.SetActive(true);
        
@@ -42,7 +42,7 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     }
 
     public void ShowPhotoGalery() {
-        Close();
+        closeCommon();
         photoGaleryTransf.SetActive(true);
         goBackButton.SetActive(true);
 
@@ -50,7 +50,7 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     }
 
     public void ShowVideo() {
-        Close();
+        closeCommon();
         goBackButton.SetActive(true);
       
         videoPlayer.enabled = true;
@@ -58,6 +58,13 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     }
 
     public void Close() {
+        closeCommon();
+        transfPanel.SetActive(true);
+        gameObject.SetActive(false);
+    }
+
+    private void closeCommon()
+    {
         transfPanel.SetActive(false);
         photoGaleryTransf.SetActive(false);
         goBackButton.SetActive(false);

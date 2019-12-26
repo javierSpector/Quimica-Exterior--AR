@@ -7,14 +7,12 @@ using Button = UnityEngine.UI.Button;
 public class InformationDisplayer : MonoBehaviour
 {
     public GameObject canvas;
-    public Button closeImage;
     private Swipe swipe;
-    
-    private bool status;
+
     private void Start()
     {
-        status = false;
-        canvas.SetActive(status);
+
+        //canvas.SetActive(status);
 
 //        closeImage.onClick.AddListener(closeCanvas);
         swipe = FindObjectOfType<Swipe>();
@@ -22,16 +20,13 @@ public class InformationDisplayer : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (status) return;
-        status = true;
-        swipe.gameObject.SetActive(!status);
-        canvas.SetActive(status);
-        
+        canvas.SetActive(true);
+        swipe.gameObject.SetActive(false);
     }
 
-    private void closeCanvas() {
-        status = false;
+    public void closeCanvas() {
+    
         canvas.SetActive(false);
-        swipe.gameObject.SetActive(!status);
+        swipe.gameObject.SetActive(true);
     }
 }

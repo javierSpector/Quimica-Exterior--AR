@@ -24,6 +24,7 @@
     <explicitExcludes>
       <Path>.idea</Path>
       <Path>Builds</Path>
+      <Path>BuildsAndroid</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>QCAR</Path>
