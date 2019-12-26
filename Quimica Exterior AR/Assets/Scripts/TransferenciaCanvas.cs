@@ -18,10 +18,14 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
 
     private void Start() {
 
+        gameObject.SetActive(false);
         transfPanel.SetActive(true);
         photoGaleryTransf.SetActive(false);
         goBackButton.SetActive(false);
         closeButton.SetActive(true);
+
+        videoPlayer.gameObject.SetActive(true);
+        videoPlayer.Prepare();
         videoPlayer.enabled = false;
         information.SetActive(false);
     }
@@ -52,7 +56,6 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     public void ShowVideo() {
         closeCommon();
         goBackButton.SetActive(true);
-      
         videoPlayer.enabled = true;
         videoPlayer.Play();
     }
@@ -60,6 +63,7 @@ public class TransferenciaCanvas : MonoBehaviour, CanvasManager {
     public void Close() {
         closeCommon();
         transfPanel.SetActive(true);
+        closeButton.SetActive(true);
         gameObject.SetActive(false);
     }
 

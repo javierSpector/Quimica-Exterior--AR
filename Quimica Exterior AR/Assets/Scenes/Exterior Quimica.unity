@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1589,8 +1589,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 43.49229, y: 8.9518585, z: 35.397026}
-  m_Center: {x: -2.5651948, y: 4.371498, z: -18.021666}
+  m_Size: {x: 13.919789, y: 4.9219437, z: 21.681765}
+  m_Center: {x: -1.9315994, y: 2.3565407, z: -19.930138}
 --- !u!114 &569070715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6605,6 +6605,11 @@ PrefabInstance:
       propertyPath: m_TargetCamera
       value: 
       objectReference: {fileID: 1239070722}
+    - target: {fileID: 620004364766497578, guid: 235cbf129f3b21540bf3a829b62c8333,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 620004365424183248, guid: 235cbf129f3b21540bf3a829b62c8333,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target

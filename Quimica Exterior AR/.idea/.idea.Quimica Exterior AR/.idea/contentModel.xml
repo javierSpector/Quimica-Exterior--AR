@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\palum\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\palum\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Quimica Exterior AR.-2049110638.00" t="ExcludeRecursive" />
-    <e p="D:\UnityProjects\projects\Quimica-Exterior--AR\Quimica Exterior AR" t="IncludeRecursive">
+    <e p="C:\Users\AustralMedia-06\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\AustralMedia-06\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Quimica Exterior AR.-780358401.00" t="ExcludeRecursive" />
+    <e p="D:\projects\Quimica-Exterior--AR\Quimica Exterior AR" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="CanvasManager.cs" t="Include" />
-        <e p="GenerateTooltips.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="buttonTransition.cs" t="Include" />
+          <e p="CanvasManager.cs" t="Include" />
           <e p="ClickEstrtuctura.cs" t="Include" />
           <e p="clickRV.cs" t="Include" />
           <e p="EventsController.cs" t="Include" />
+          <e p="GenerateTooltips.cs" t="Include" />
+          <e p="ImageSpotlight.cs" t="Include" />
           <e p="InformationDisplayer.cs" t="Include" />
           <e p="LookAt Texts.cs" t="Include" />
           <e p="LookAtText.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
           <e p="Swipe.cs" t="Include" />
           <e p="tansitionAnimation.cs" t="Include" />
+          <e p="TransferenciaCanvas.cs" t="Include" />
           <e p="Transition.cs" t="Include" />
         </e>
         <e p="StreamingAssets" t="Include">
@@ -97,7 +99,6 @@
             <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
-        <e p="TransferenciaCanvas.cs" t="Include" />
         <e p="TutorialInfo" t="Include">
           <e p="Scripts" t="Include">
             <e p="Editor" t="Include">
@@ -107,10 +108,13 @@
           </e>
         </e>
       </e>
+      <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Quimica Exterior AR.sln" t="IncludeFlat" />
-      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
     </e>
   </component>
 </project>
